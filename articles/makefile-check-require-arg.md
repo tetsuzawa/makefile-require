@@ -1,5 +1,5 @@
 ---
-title: "Makefileの引数が定義されてるか確認する方法"
+title: "Makefileの引数が定義されてるか確認する"
 emoji: "🐰"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["make", "makefile"]
