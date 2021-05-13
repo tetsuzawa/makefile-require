@@ -3,7 +3,7 @@ title: "Makefileの引数が定義されてるか確認する方法"
 emoji: "🐰"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["make", "makefile"]
-published: false
+published: public
 ---
 
 # よくある引数確認方法と問題点
